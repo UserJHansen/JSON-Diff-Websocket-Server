@@ -1,0 +1,15 @@
+GET:
+    URL 
+        {"command": 0, "area": 0, "value": ""}
+    FULL LIST STATS
+        {"command": 0, "area": 1, "value": ""}
+    COOKIES 
+        {"command": 0, "area": 2, "value": ""}
+
+
+SET:
+    URL
+        {"command": 1, "area": 0, "value": "https://mangasee123.com/user/subscription.get.php"}
+        {"command": 1, "area": 0, "value": "https://mangasee123.com/_search.php"}
+    COOKIES 
+        {"command": 1, "area": 2, "value": "UserSession: 'aUtpVzRYZUlHSi9Vc0laV1NCeGc4QT09'"}
